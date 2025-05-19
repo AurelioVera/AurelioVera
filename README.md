@@ -29,7 +29,7 @@
 [<img align="left" alt="AurelioVera | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[youtube]: www.youtube.com/@aureliovera8910
+[youtube]: https://www.youtube.com/channel/UChOstDoLOklX8PMprKc6_Qw
 [linkedin]: https://www.linkedin.com/in/aurelio-vera-342702219/
 
 <!--
