@@ -1,4 +1,4 @@
-<h1>Hi, I'm Aurelio! <br/><a href="https://github.com/AurelioVera">Aspiring IT Professional</a>, <a href="https://www.linkedin.com/in/aurelio-vera-342702219/">Microsoft Software and Systems Academy (MSSA) Participant</a>, <a href="https://www.linkedin.com/in/aurelio-vera-342702219/">Server & Cloud Administrator</a>, <a href="https://www.linkedin.com/in/aurelio-vera-342702219/">Veteran</a></h1>
+<h1>Hi, I'm Aurelio! <br/><a href="https://github.com/AurelioVera">Aspiring IT Professional | Microsoft Software and Systems Academy (MSSA) Participant | Server & Cloud Administrator | Veteran</a></h1>
 
 
 <h2>👨‍💻 Network Administrator Projects:</h2>
