@@ -8,7 +8,7 @@
 - <b>Resources</b>
   - [Virtual Machines](https://github.com/AurelioVera/LABURL) <b><i>(Windows Server & Windows 11 Pro)</b></i>
 - <b>PowerShell</b>
-  - [Install and update PowerShell on Windows 11](https://github.com/AurelioVera/LABURL)
+  - [Add Users to Active Directory via PowerShell](https://github.com/AurelioVera/AD_Users_Script/tree/main)
 
 
 <h2> :desktop_computer: Certifications</h2>
