@@ -4,7 +4,7 @@
 <h2>👨‍💻 Network Administrator Projects:</h2>
 
 - <b>Active Directory Home Lab</b>
-  - [Hyper-V Manager](https://i.imgur.com/jPliyri.jpeg)
+  - [Hyper-V Manager](https://github.com/AurelioVera/HomeLab/tree/main)
 - <b>Resources</b>
   - [Virtual Machines](https://github.com/AurelioVera/LABURL) <b><i>(Windows Server & Windows 11 Pro)</b></i>
 - <b>PowerShell</b>
