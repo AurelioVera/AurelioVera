@@ -6,7 +6,7 @@
 - <b>Active Directory Home Lab</b>
   - [Hyper-V Manager](https://github.com/AurelioVera/HomeLab/tree/main)
 - <b>Resources</b>
-  - [Virtual Machines](https://github.com/AurelioVera/LABURL) <b><i>(Windows Server & Windows 11 Pro)</b></i>
+  - [Virtual Machines](https://github.com/AurelioVera/CreateVirtualMachines/tree/main) <b><i>(Windows Server & Windows 11 Pro)</b></i>
 - <b>PowerShell</b>
   - [Add Users to Active Directory via PowerShell](https://github.com/AurelioVera/AD_Users_Script/tree/main)
 
