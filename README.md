@@ -19,9 +19,9 @@
 
 <h2>📺 How To? YouTube Videos</h2>
 
-- [How to setup an Active Directory Home Lab](https://www.youtube.com)
-- [How to create Virtual Machines with Hyper-V Manager](https://www.youtube.com)
 
+- [Home Lab Project using Hyper-V Manager: Part 1 of 2](https://www.youtube.com/watch?v=ZsIfHV9Pdd8)
+- [How to setup an Active Directory Home Lab](https://www.youtube.com)
 
 <h2> 🤳 Connect with me:</h2>
 
