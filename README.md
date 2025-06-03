@@ -30,7 +30,7 @@
 
 
 [youtube]: https://www.youtube.com/channel/UChOstDoLOklX8PMprKc6_Qw
-[linkedin]: https://www.linkedin.com/in/aurelio-vera-342702219/
+[linkedin]: https://www.linkedin.com/in/aurelio-vera-mssa/
 
 <!--
 **AurelioVera/AurelioVera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
